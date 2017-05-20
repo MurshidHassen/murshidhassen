@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)Resume
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+References available upon request. Email me at murshidhassen@gmail.com
 
 ## [](#header-2)Header 2
 
