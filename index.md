@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)Resume
 
-References available upon request. Email me at murshidhassen@gmail.com
+References available upon request. Email me at [murshid.hassen@gmail.com](murshidhassen@gmail.com)
 
 ## [](#header-2)Header 2
 
