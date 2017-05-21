@@ -73,7 +73,7 @@ layout: default
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://www.dropbox.com/home/shared%20folder?preview=pexels-photo-112642.jpeg)
 
 ### Large image
 
