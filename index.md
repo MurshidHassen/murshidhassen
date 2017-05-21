@@ -5,7 +5,7 @@ layout: default
 # [](#header-1)About Me
 
 
-## [](#header-2)Life taught
+## [](#header-2)Life taught Me
 
 > The only way that we can live, is if we grow. The only way that we can grow is if we change. 
 > The only way that we can change is if we learn. The only way we can learn is if we are exposed. And the only way that we can 
@@ -13,7 +13,8 @@ layout: default
 >
 > C. JoyBell C.
 
-### [](#header-3)Header 3
+### [](#header-3) We finally met
+  Greetings, I am murshid hassen
 
 #### [](#header-4)Header 4
 
