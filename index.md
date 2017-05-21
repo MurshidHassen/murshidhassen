@@ -2,9 +2,8 @@
 layout: default
 ---
 
-# [](#header-1)Resume
+# [](#header-1)About Me
 
-References available upon request. Email me at [murshid.hassen@gmail.com](https://mailto:murshidhassen@gmail.com)
 
 ## [](#header-2)Header 2
 
@@ -94,6 +93,8 @@ References available upon request. Email me at [murshid.hassen@gmail.com](https:
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
+References available upon request. Email me at [murshid.hassen@gmail.com](https://mailto:murshidhassen@gmail.com)
+
 
 ```
 The final element.
