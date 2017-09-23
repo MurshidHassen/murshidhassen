@@ -41,21 +41,21 @@ layout: default
 
 * * *
 
-### Here is an unordered list:
+### Personal Projects:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   Vimo Strive
+*   Cima Launchpad
+*   //
+*   //
 
-### And an ordered list:
+### Opensource Projects:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  HTML5 React Based DICOM Image Viewer
+1.  //
+1.  //
+1.  //
 
-### And a nested list:
+### Other Coding Project and Interesting Life Experiences:
 
 - level 1 item
   - level 2 item
