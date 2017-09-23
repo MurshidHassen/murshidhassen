@@ -7,14 +7,14 @@ layout: default
 
 ## [](#header-2)Life taught Me
 
-> The only way that we can live, is if we grow. The only way that we can grow is if we change. 
-> The only way that we can change is if we learn. The only way we can learn is if we are exposed. And the only way that we can 
+> The only way that we can live, is if we grow. The only way that we can grow is if we change.
+> The only way that we can change is if we learn. The only way we can learn is if we are exposed. And the only way that we can
 > become exposed is if we throw ourselves out into the open. Do it. Throw yourself.
 >
 > C. JoyBell C.
 
-### [](#header-3) We finally met
-  Greetings, I am murshid hassen
+### [](#header-3)     We finally met
+  Greetings, I am murshid hassen, Software Engineering Student from Sri Lanka.
 
 #### [](#header-4)Header 4
 
