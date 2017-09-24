@@ -16,7 +16,7 @@ layout: default
 ### [](#header-3)     We finally met
   Greetings, I am murshid hassen, Software Engineering Student from Sri Lanka.
 Find me @murshidhassen on the web. I love graphics programming and testing the latest technologies. Primary focus on building my own things
-using FSF and OSS projects. 
+using FSF and OSS projects.
 
 
 ### There's a horizontal rule below this.
@@ -39,19 +39,19 @@ using FSF and OSS projects.
 
 ### Other Coding Project and Interesting Life Experiences:
 
-- level 1 item
-  - level 2 item
+- languages and interesting projects
+  - Heroku deployments
   - level 2 item
     - level 3 item
     - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Other extra work
+  - FreeCodeCamp and Using medium
+  - Wordpress sites
+  - Twitter Edits
+- Graphics Programming
+  - Games and game engine works
+  - Unreal and Unity
+- Slack and Trello. Api details
 
 #### [](#header-4)Header 4
 
