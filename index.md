@@ -33,7 +33,7 @@ using FSF and OSS projects.
 ### Opensource Projects:
 
 1.  HTML5 React Based DICOM Image Viewer
-1.  //
+1.  // lamda and other hacker rank projects
 1.  //
 1.  //
 
