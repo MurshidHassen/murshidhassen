@@ -41,9 +41,9 @@ using FSF and OSS projects.
 
 - languages and interesting projects
   - Heroku deployments
-  - level 2 item
-    - level 3 item
-    - level 3 item
+  - JS Frameworks
+    - SMLNJ and Idris
+    - GraphQL and Rest Stuffs
 - Other extra work
   - FreeCodeCamp and Using medium
   - Wordpress sites
