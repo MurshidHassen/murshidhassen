@@ -26,6 +26,8 @@ using FSF and OSS projects.
 ### Personal Projects:
 
 *   Vimo Strive
+>
+
 *   Cima Launchpad
 *   //
 *   //
