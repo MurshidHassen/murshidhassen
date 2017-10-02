@@ -36,13 +36,16 @@ using FSF and OSS projects.
 
 * * *
 
-### Opensource Projects:
+### Opensource Projects and Cloud deployments:
 
 1.  HTML5 React Based DICOM Image Viewer
 1.  // lamda and other hacker rank projects
 1.  // Haskell and SMLNJ Programming for mathematics
 1.  // Documentations
 1.  // Other deployment options other than Heroku like amazon and other services Paas
+1.  // Ubuntu Kubernates architecture
+1.  // Azure and ms cloud with Vimo
+1.  // Samsung Artik Cloud support for gadgetbridge
 1.  // DevOps
 
 ###
@@ -65,7 +68,8 @@ using FSF and OSS projects.
   - Unreal and Unity
 - Slack and Trello. Api details
 
-### 
+
+###
 
 * * *
 
