@@ -29,7 +29,7 @@ using FSF and OSS projects.
 >
 
 *   Cima Launchpad
-*   //
+*   // CodeSprint v2
 *   //
 
 ### Opensource Projects:
@@ -39,7 +39,7 @@ using FSF and OSS projects.
 1.  // Haskell and SMLNJ Programming for mathematics
 1.  // Documentations
 1.  // Other deployment options other than Heroku like amazon and other services Paas
-1.  // DevOps 
+1.  // DevOps
 
 ### Other Coding Project and Interesting Life Experiences:
 
