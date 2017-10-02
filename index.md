@@ -32,6 +32,10 @@ using FSF and OSS projects.
 *   // CodeSprint v2
 *   //
 
+###
+
+* * *
+
 ### Opensource Projects:
 
 1.  HTML5 React Based DICOM Image Viewer
@@ -40,6 +44,10 @@ using FSF and OSS projects.
 1.  // Documentations
 1.  // Other deployment options other than Heroku like amazon and other services Paas
 1.  // DevOps
+
+###
+
+* * *
 
 ### Other Coding Project and Interesting Life Experiences:
 
@@ -56,6 +64,11 @@ using FSF and OSS projects.
   - Games and game engine works
   - Unreal and Unity
 - Slack and Trello. Api details
+
+### 
+
+* * *
+
 
 #### [](#header-4)Header 4
 
