@@ -14,9 +14,11 @@ layout: default
 > C. JoyBell C.
 
 ### [](#header-3)     We finally met
-  Greetings, I am murshid hassen, Software Engineering Student from Sri Lanka.
-Find me @murshidhassen on the web. I love graphics programming and testing the latest technologies. Primary focus on building my own things
-using FSF and OSS projects.
+  Greetings, I am murshid hassen, Engineering Student from Sri Lanka.
+Find me @murshidhassen throughout the web. My Likes of software is towards mobile.
+Part of me love graphics programming. Any technology relating to graphics it I would love it.
+Primary focus is to learn and build my own things :)
+Most importantly I love FSF and FOSS projects.
 
 
 ### There's a horizontal rule below this.
@@ -30,7 +32,7 @@ using FSF and OSS projects.
 
 *   Cima Launchpad
 *   CodeSprint v2
-*   //
+*   
 
 ###
 
@@ -39,20 +41,21 @@ using FSF and OSS projects.
 ### Opensource Projects and Cloud deployments:
 
 1.  HTML5 React Based DICOM Image Viewer
-1.  // lamda and other hacker rank projects
-1.  // Haskell and SMLNJ Programming for mathematics
-1.  // Documentations
+1.  Hacker rank projects and IEEE
+1.  Haskell and SMLNJ Programming for mathematics
 1.  // Other deployment options other than Heroku like amazon and other services Paas
-1.  // Ubuntu Kubernates architecture
-1.  // Azure and ms cloud with Vimo
-1.  // Samsung Artik Cloud support for gadgetbridge
-1.  // DevOps
+1.  Ubuntu Kubernetes architecture
+1.  MS Azure with Vimo Strive
+1.  Cloud Supports from Samsung Artik Cloud for gadgetbridge
+1.  DevOps
+1.  TDD and Software Methodologies
+1.  Importance of Software Documentations
 
 ###
 
 * * *
 
-### Other Coding Project and Interesting Life Experiences:
+### Other Code Projects and Interesting Experiences:
 
 - languages and interesting projects
   - Heroku deployments
@@ -67,7 +70,7 @@ using FSF and OSS projects.
   - Games and game engine works
   - Unreal and Unity
 - Slack and Trello. Api details
-
+- Machine Learning and Data Science
 
 ###
 
