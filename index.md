@@ -29,7 +29,7 @@ using FSF and OSS projects.
 >
 
 *   Cima Launchpad
-*   // CodeSprint v2
+*   CodeSprint v2
 *   //
 
 ###
@@ -74,11 +74,11 @@ using FSF and OSS projects.
 * * *
 
 
-#### [](#header-4)Header 4
+#### [](#header-4)Work experience
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Software Development Intern @ Sri Lankan Airlines IT Systems
+*   Developer at Vimo Labs
+
 
 ##### [](#header-5)Header 5
 
