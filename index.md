@@ -21,7 +21,6 @@ Primary focus is to learn and build my own things :)
 Most importantly I love FSF and FOSS projects.
 
 
-### There's a horizontal rule below this.
 
 * * *
 
@@ -38,7 +37,7 @@ Most importantly I love FSF and FOSS projects.
 
 * * *
 
-### Opensource Projects and Cloud deployments:
+### Opensource Projects, Agile and Cloud deployments:
 
 1.  HTML5 React Based DICOM Image Viewer
 1.  Hacker rank projects and IEEE
@@ -49,7 +48,7 @@ Most importantly I love FSF and FOSS projects.
 1.  DevOps
 1.  TDD and Software Methodologies
 1.  Importance of Software Documentations
-1.  Other deployment options other than Heroku like amazon and other services Paas
+1.  Other deployment such as AWS other than Heroku Paas for life
 
 ###
 

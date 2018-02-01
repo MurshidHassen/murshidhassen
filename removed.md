@@ -45,3 +45,8 @@
   ```
   The final element.
   ```
+
+
+### There's a horizontal rule below this.
+
+* * *
