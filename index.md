@@ -16,7 +16,7 @@ layout: default
 ### [](#header-3)     We finally met
   Greetings, I am murshid hassen, Engineering Student from Sri Lanka.
 Find me @murshidhassen throughout the web. My Likes of software is towards mobile.
-Part of me love graphics programming. Any technology relating to graphics it I would love it.
+Part of me love graphics programming as well. Any technology relating to graphics it I would love it.
 Primary focus is to learn and build my own things :)
 Most importantly I love FSF and FOSS projects.
 
