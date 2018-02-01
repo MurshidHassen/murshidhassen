@@ -43,13 +43,13 @@ Most importantly I love FSF and FOSS projects.
 1.  HTML5 React Based DICOM Image Viewer
 1.  Hacker rank projects and IEEE
 1.  Haskell and SMLNJ Programming for mathematics
-1.  // Other deployment options other than Heroku like amazon and other services Paas
 1.  Ubuntu Kubernetes architecture
 1.  MS Azure with Vimo Strive
 1.  Cloud Supports from Samsung Artik Cloud for gadgetbridge
 1.  DevOps
 1.  TDD and Software Methodologies
 1.  Importance of Software Documentations
+1.  Other deployment options other than Heroku like amazon and other services Paas
 
 ###
 
@@ -82,52 +82,52 @@ Most importantly I love FSF and FOSS projects.
 *   Software Development Intern @ Sri Lankan Airlines IT Systems
 *   Developer at Vimo Labs
 
+[]:<>(
+  ##### [](#header-5)Header 5
 
-##### [](#header-5)Header 5
+  1.  This is an ordered list following a header.
+  2.  This is an ordered list following a header.
+  3.  This is an ordered list following a header.
+  ###### [](#header-6)Header 6
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
+  | head1        | head two          | three |
+  |:-------------|:------------------|:------|
+  | ok           | good swedish fish | nice  |
+  | out of stock | good and plenty   | nice  |
+  | ok           | good `oreos`      | hmm   |
+  | ok           | good `zoute` drop | yumm  |
 
 
-### Small image
 
-![](https://www.dropbox.com/home/shared%20folder?preview=pexels-photo-112642.jpeg)
+  ### Small image
 
-### Large image
+  ![](https://www.dropbox.com/home/shared%20folder?preview=pexels-photo-112642.jpeg)
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+  ### Large image
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-References available upon request. Email me at [murshid.hassen@gmail.com](https://mailto:murshidhassen@gmail.com)
+  ![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-```
-The final element.
-```
+  ### Definition lists can be used with HTML syntax.
+
+  <dl>
+  <dt>Name</dt>
+  <dd>Godzilla</dd>
+  <dt>Born</dt>
+  <dd>1952</dd>
+  <dt>Birthplace</dt>
+  <dd>Japan</dd>
+  <dt>Color</dt>
+  <dd>Green</dd>
+  </dl>
+
+  ```
+  Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+  ```
+  References available upon request. Email me at [murshid.hassen@gmail.com](https://mailto:murshidhassen@gmail.com)
+
+
+  ```
+  The final element.
+  ```
+)
