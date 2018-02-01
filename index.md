@@ -82,7 +82,7 @@ Most importantly I love FSF and FOSS projects.
 *   Software Development Intern @ Sri Lankan Airlines IT Systems
 *   Developer at Vimo Labs
 
-[]:<>(
+[Removed]:<>(
   ##### [](#header-5)Header 5
 
   1.  This is an ordered list following a header.
