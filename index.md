@@ -14,7 +14,7 @@ layout: default
 > C. JoyBell C.
 
 ### [](#header-3) We finally met
- Greetings 🙈, I am Murshid Hassen, Engineering undergrad from Sri Lanka (The pearl of the Indian ocean 😍).
+ Greetings 🙈, I am Murshid Hassen, Software Engineer from Sri Lanka (The pearl of the Indian ocean 😍).
 You could find me @murshidhassen throughout the web. I like software, it's soft. (credits to Brenna O'Brien (@brnnbrn))
 Part of me loves graphics programming that's why I created my own simple opensource gaming startup. Using all my free time I have been able to build one simple game and I love it. My Primary focus is to learn and build great products to humanity so that one day we could land on the Earth we have imagined 🚀
 Most importantly I like the part Opensource software and what FSF community and other FOSS communities have done for years...
@@ -24,7 +24,7 @@ Most importantly I like the part Opensource software and what FSF community and 
 * * *
 ### My Startup
 
-*   Vimo Labs
+*   [UnivacSolutions](https://www.univacsolution.com/)
 
 * * *
 
@@ -32,6 +32,8 @@ Most importantly I like the part Opensource software and what FSF community and 
 
 *   Strive Game
 *   Cima Launchpad OpenShop
+*   Redboost.lk
+*   Fieldr.lk
 *   Cardealer.lk
 *   Process Automation
 
@@ -74,6 +76,7 @@ Most importantly I like the part Opensource software and what FSF community and 
   - Unreal and Unity
 - Slack and Trello. Api Implementations
 - Ai, Machine Learning and Data Science
+- Automation - CodeCeptJS, Cypress, JMeter, Selenuium
 
 
 
@@ -83,5 +86,6 @@ Most importantly I like the part Opensource software and what FSF community and 
 #### [](#header-4)Work experience 💻
 
 *   iOS Software Development Intern @ Sri Lankan Airlines IT Systems
-*   Associate Software Engineer at Zaizi
-*   Developer at Vimo Labs
+*   Past Associate Software Engineer at Zaizi
+*   Developer at UnivacSolutions
+*   Software Engineer at Calcey Technologies
