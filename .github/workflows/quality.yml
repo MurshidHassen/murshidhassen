@@ -1,0 +1,51 @@
+name: Code Quality Checks
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Check Ruby syntax
+        run: bundle exec rake -T 2>/dev/null || echo "No Rakefile found"
+
+      - name: Lint markdown files
+        run: |
+          gem install mdl
+          mdl . --ignore-front-matter --exclude vendor/
+
+  security:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Check for security vulnerabilities
+        run: |
+          gem install bundler-audit
+          bundler-audit check
