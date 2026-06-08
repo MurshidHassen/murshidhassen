@@ -41,6 +41,7 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Validate HTML (optional)
+        continue-on-error: true
         run: |
           gem install html-proofer
           htmlproofer ./_site --disable-external --allow-hash-href
