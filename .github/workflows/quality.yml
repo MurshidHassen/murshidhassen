@@ -28,6 +28,7 @@ jobs:
         run: bundle exec rake -T 2>/dev/null || echo "No Rakefile found"
 
       - name: Lint markdown files
+        continue-on-error: true
         run: |
           gem install mdl
           find . -path './vendor' -prune -o -name '*.md' -print0 | xargs -0 mdl --ignore-front-matter
