@@ -30,7 +30,7 @@ jobs:
       - name: Lint markdown files
         run: |
           gem install mdl
-          mdl . --ignore-front-matter --exclude vendor/
+          find . -path './vendor' -prune -o -name '*.md' -print0 | xargs -0 mdl --ignore-front-matter
 
   security:
     runs-on: ubuntu-latest
