@@ -1,5 +1,35 @@
 title: Murshid Hassen
-description: Software Engineer
+description: Software Engineer · Sri Lanka
+email: murshidhassen@gmail.com
+url: "http://localhost:4000"
+baseurl: "/murshidhassen"
+lang: en-US
+
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+
+github_username: MurshidMac
+blog_url: https://daemonxz.wordpress.com/
+location: Sri Lanka
+
+social:
+  - name: GitHub
+    url: https://github.com/MurshidMac
+    icon: github
+  - name: Blog
+    url: https://daemonxz.wordpress.com/
+    icon: blog
+  - name: Email
+    url: mailto:murshidhassen@gmail.com
+    icon: email
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed

@@ -1,0 +1,9 @@
+{
+  "name": "murshidhassen-site",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-preview.mjs",
+    "dev": "node scripts/build-preview.mjs --serve",
+    "preview": "npm run dev"
+  }
+}
