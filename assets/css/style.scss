@@ -8,9 +8,9 @@
   --border: rgba(148, 163, 184, 0.14);
   --text: #e8edf5;
   --text-muted: #94a3b8;
-  --accent: #38bdf8;
-  --accent-strong: #0ea5e9;
-  --accent-soft: rgba(56, 189, 248, 0.12);
+  --accent: #60a5fa;
+  --accent-strong: #3b82f6;
+  --accent-soft: rgba(96, 165, 250, 0.10);
   --success: #34d399;
   --shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
   --radius: 18px;
@@ -48,6 +48,19 @@ a {
 
 a:hover {
   color: #7dd3fc;
+}
+
+/* Accessibility helpers */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
 }
 
 img {
@@ -164,6 +177,7 @@ img {
   border-radius: 12px;
   background: var(--bg-elevated);
   cursor: pointer;
+  transition: background 0.18s ease, transform 0.12s ease;
 }
 
 .nav-toggle span {
@@ -245,6 +259,7 @@ img {
   font-weight: 600;
   font-size: 0.95rem;
   border: 1px solid transparent;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, opacity 0.12s ease;
 }
 
 .button-primary {
@@ -254,7 +269,18 @@ img {
 
 .button-primary:hover {
   color: #041018;
-  filter: brightness(1.05);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(59, 130, 246, 0.12);
+}
+
+.button:focus-visible,
+.nav-cta:focus-visible,
+.nav-toggle:focus-visible,
+.button-primary:focus-visible,
+.button-secondary:focus-visible {
+  outline: 3px solid rgba(96, 165, 250, 0.18);
+  outline-offset: 3px;
+  border-color: rgba(96, 165, 250, 0.28);
 }
 
 .button-secondary {
@@ -278,6 +304,22 @@ img {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   backdrop-filter: blur(12px);
+}
+
+/* Slightly tighter cards for small screens */
+@media (max-width: 520px) {
+  .hero-card,
+  .info-card,
+  .project-card,
+  .skill-card,
+  .quote-card {
+    border-radius: 12px;
+    padding: 1rem;
+  }
+  .container {
+    width: calc(100% - 2rem);
+    padding: 0 1rem;
+  }
 }
 
 .hero-card {
@@ -577,6 +619,10 @@ img {
   .hero {
     padding-top: 3.5rem;
   }
+
+  /* Improve header spacing on small screens */
+  .nav-brand-text { font-size: 0.95rem; }
+  .nav-brand-mark { width: 2.2rem; height: 2.2rem; }
 
   .section-header {
     flex-direction: column;
