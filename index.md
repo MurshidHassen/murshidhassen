@@ -1,19 +1,19 @@
 ---
 layout: default
 title: Home
-description: Software engineer from Sri Lanka building products, platforms, and open-source tools.
+description: Lead engineer from Sri Lanka with 8+ years of industry experience building products, platforms, and open-source tools.
 ---
 
 <section class="hero container" id="top">
   <div class="hero-grid">
     <div>
-      <div class="eyebrow">Software Engineer · {{ site.location }}</div>
+      <div class="eyebrow">Lead Engineer · 8+ Years Experience · {{ site.location }}</div>
       <h1>
         Murshid Hassen
         <span>Building thoughtful software for people and teams.</span>
       </h1>
       <p class="hero-lead">
-        I design and ship web platforms, cloud-native systems, and developer tooling.
+        With 8+ years of industry experience, I design and ship web platforms, cloud-native systems, and developer tooling.
         I care about open source, clean architecture, and products that are useful in the real world.
       </p>
       <div class="hero-actions">
@@ -23,14 +23,24 @@ description: Software engineer from Sri Lanka building products, platforms, and 
       </div>
     </div>
 
-    <aside class="hero-card">
-      <h2>At a glance</h2>
-      <ul class="meta-list">
-        <li><span>Focus</span><strong>Full-stack &amp; cloud engineering</strong></li>
-        <li><span>Startup</span><strong><a href="https://www.univacsolution.com/" target="_blank" rel="noopener noreferrer">UnivacSolutions</a></strong></li>
-        <li><span>Interests</span><strong>Graphics, OSS, automation</strong></li>
-        <li><span>Handle</span><strong>@murshidhassen</strong></li>
-      </ul>
+    <aside class="hero-aside">
+      <img
+        class="profile-photo"
+        src="{{ '/assets/img/profile.png' | relative_url }}"
+        alt="Portrait of Murshid Hassen"
+        width="160"
+        height="160">
+      <div class="hero-card">
+        <h2>At a glance</h2>
+        <ul class="meta-list">
+          <li><span>Role</span><strong>Lead Engineer</strong></li>
+          <li><span>Experience</span><strong>8+ years</strong></li>
+          <li><span>Focus</span><strong>Full-stack &amp; cloud engineering</strong></li>
+          <li><span>Startup</span><strong><a href="https://www.univacsolution.com/" target="_blank" rel="noopener noreferrer">UnivacSolutions</a></strong></li>
+          <li><span>Interests</span><strong>Graphics, OSS, automation</strong></li>
+          <li><span>Handle</span><strong>@murshidhassen</strong></li>
+        </ul>
+      </div>
     </aside>
   </div>
 </section>
