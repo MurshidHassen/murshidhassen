@@ -138,6 +138,9 @@ function build() {
   buildPage(path.join(root, "license/index.md"), path.join(outDir, "license/index.html"));
 
   copyDir(path.join(root, "assets/js"), path.join(outDir, "assets/js"));
+  if (fs.existsSync(path.join(root, "assets/img"))) {
+    copyDir(path.join(root, "assets/img"), path.join(outDir, "assets/img"));
+  }
   copyDir(path.join(root, "download"), path.join(outDir, "download"));
 
   console.log(`Built site to ${outDir}`);
