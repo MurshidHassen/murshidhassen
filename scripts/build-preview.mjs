@@ -11,8 +11,8 @@ const baseurl = isServe ? "" : "/murshidhassen";
 
 const site = {
   title: "Murshid Hassen",
-  description: "Software Engineer · Sri Lanka",
-  email: "murshidhassen@gmail.com",
+  description: "Lead Engineer · 8+ Years Experience · Sri Lanka",
+  email: "murshid.hassen@gmail.com",
   blog_url: "https://daemonxz.wordpress.com/",
   location: "Sri Lanka",
   lang: "en-US",
@@ -21,7 +21,7 @@ const site = {
   social: [
     { name: "GitHub", url: "https://github.com/MurshidMac" },
     { name: "Blog", url: "https://daemonxz.wordpress.com/" },
-    { name: "Email", url: "mailto:murshidhassen@gmail.com" },
+    { name: "Email", url: "mailto:murshid.hassen@gmail.com" },
   ],
 };
 

@@ -1,6 +1,6 @@
 title: Murshid Hassen
 description: Lead Engineer · 8+ Years Experience · Sri Lanka
-email: murshidhassen@gmail.com
+email: murshid.hassen@gmail.com
 url: "http://localhost:4000"
 baseurl: "/murshidhassen"
 lang: en-US
@@ -20,7 +20,7 @@ social:
     url: https://daemonxz.wordpress.com/
     icon: blog
   - name: Email
-    url: mailto:murshidhassen@gmail.com
+    url: mailto:murshid.hassen@gmail.com
     icon: email
 
 plugins:
