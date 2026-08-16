@@ -247,4 +247,29 @@ description: Lead engineer from Sri Lanka with 8+ years of industry experience b
       </p>
     </article>
   </div>
+
+  <div class="contact-form-wrap">
+    <form class="contact-form" id="contact-form" novalidate>
+      <div class="form-row">
+        <label for="contact-name">Name</label>
+        <input type="text" id="contact-name" name="name" autocomplete="name" placeholder="Your name" required>
+      </div>
+      <div class="form-row">
+        <label for="contact-email">Your email</label>
+        <input type="email" id="contact-email" name="email" autocomplete="email" placeholder="you@example.com" required>
+      </div>
+      <div class="form-row">
+        <label for="contact-message">Message</label>
+        <textarea id="contact-message" name="message" rows="5" placeholder="Tell me about your idea or project…" required></textarea>
+      </div>
+      <div class="form-actions">
+        <button class="button button-primary" type="submit" id="contact-submit">Send message</button>
+        <p class="form-hint">
+          Prefer your own mail app?
+          <a href="mailto:{{ site.email }}">Email {{ site.email }}</a>
+        </p>
+      </div>
+      <p class="form-status" id="contact-status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
 </section>
